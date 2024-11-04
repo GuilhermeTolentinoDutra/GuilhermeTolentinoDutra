@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Tolentino Dutra</h1>
-<h3 align="center"> Lawyer and Data Scientis</h3>
+<h3 align="center"> Lawyer and Data Scientist</h3>
 
 
 - 👨‍💻 I'm a lawyer with over 14 years of experience, mainly in criminal law and contracts. I am looking for new career and growth opportunities.
