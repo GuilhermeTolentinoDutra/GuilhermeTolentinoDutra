@@ -2,13 +2,13 @@
 <h3 align="center"> Lawyer and Data Scientist</h3>
 
 
-- 👨‍💻 I'm a lawyer with over 14 years of experience, mainly in criminal law and contracts. I am looking for new career and growth opportunities.
+- 👨‍💻 I'm a lawyer with over 14 years of experience, mainly in criminal law and contracts. 
 
 - 💻 I have always been a tech enthusiast, and now I have decided to step into this world.
 
-- 🚀 I recently completed two bootcamps on **Data Science & AI**, one at Le Wagon and another at TripleTen. During the bootcamps i could learn **Python, SQL**, and the main libraries applied to **Machine Learning** and **Deep Learning**, such as **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras**.
+- 🚀 To dive deep into my passion and be able to transition my carrer, I completed two bootcamps on **Data Science & AI**, one at Le Wagon and another at TripleTen to learn and deep undestand Data Science and Machine Learning. During the bootcamps i could learn **Python, SQL**, and the main libraries applied to **Machine Learning** and **Deep Learning**, such as **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras**.
 
-- 📫 How to reach me **guilherme.tolentino.dutra@gmail.com**
+- 📫 Reach me through **guilherme.tolentino.dutra@gmail.com** or my LinkedIn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
