@@ -8,9 +8,8 @@
 
 - 🚀 To dive deep into my passion and be able to transition my carrer, I completed two bootcamps on **Data Science & AI**, one at Le Wagon and another at TripleTen to learn and deep undestand Data Science and Machine Learning. During the bootcamps i could learn **Python, SQL**, and the main libraries applied to **Machine Learning** and **Deep Learning**, such as **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras**.
 
-- 📫 Reach me through **guilherme.tolentino.dutra@gmail.com** or my LinkedIn.
+- 📫 Let´s connect! Reach me through **guilherme.tolentino.dutra@gmail.com** or my LinkedIn.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guilhermetolentinodutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermetolentinodutra" height="30" width="40" /></a>
 </p>
