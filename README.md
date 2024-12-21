@@ -6,7 +6,8 @@
 
 - 💻 I have always been a tech enthusiast, and now I have decided to step into this world.
 
-- 🚀 To dive deep into my passion and be able to transition my carrer, I completed two bootcamps on **Data Science & AI**, one at Le Wagon and another at TripleTen to learn and deep undestand Data Science and Machine Learning. During the bootcamps i could learn **Python, SQL**, and the main libraries applied to **Machine Learning** and **Deep Learning**, such as **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras**.
+- 🚀 To dive deep into my passion and be able to transition my carrer, I completed two bootcamps on **Data Science & AI**, one at Le Wagon and another at TripleTen to learn and deeply undestand Data Science and Machine Learning.
+- During the bootcamps i could learn **Python, SQL**, and the main libraries applied to **Machine Learning** and **Deep Learning**, such as **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras**.
 
 - 📫 Let´s connect! Reach me through **guilherme.tolentino.dutra@gmail.com** or my LinkedIn.
 
