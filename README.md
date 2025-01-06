@@ -10,7 +10,7 @@
 
 - 🐍 During the bootcamps i could learn **Python, SQL**, and the main libraries applied to **Machine Learning** and **Deep Learning**, such as **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras**.
 
-- 📫 Let´s connect! Reach me through **guilherme.tolentino.dutra@gmail.com** or my <a href="https://linkedin.com/in/guilhermetolentinodutra" target="blank"> LinkedIn</a>.
+- 📫 Let's connect! Reach me through **guilherme.tolentino.dutra@gmail.com** or my <a href="https://linkedin.com/in/guilhermetolentinodutra" target="blank">LinkedIn</a>.
 
 
 <h3 align="left">Languages and Tools:</h3>
