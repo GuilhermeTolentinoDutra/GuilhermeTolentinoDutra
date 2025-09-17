@@ -6,7 +6,7 @@
 
 - 💻 I have always been a tech enthusiast, and now I have decided to step into this world.
 
-- 🚀 To dive deep into my passion and be able to transition my carrer, I completed two bootcamps on **Data Science & AI**, one at Le Wagon and another at TripleTen to learn and deeply understand Data Science and Machine Learning.
+- 🚀 To dive deep into my passion and be able to transition my carrer, I completed two bootcamps on **Data Science & AI**, one at Le Wagon and another at TripleTen to learn and deeply understand Data Science and Machine Learning. I'm currently taking two postgraduate programs, one in Data Science and the other in Computer Vision and Deep Learning.
 
 - 🐍 During the bootcamps i could learn **Python, SQL**, and the main libraries applied to **Machine Learning** and **Deep Learning**, such as **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow and Keras**. Take a look at my pinned projects!
 
